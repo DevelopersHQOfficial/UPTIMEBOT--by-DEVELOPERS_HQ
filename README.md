@@ -1,5 +1,7 @@
 # Uptimer Bot for projects
 
-```sh
-npm init -y && npm i --save-dev node@16 && npm config set prefix=$(pwd)/node_modules/node && export PATH=$(pwd)/node_modules/node/bin:$PATH
-```
+BOT BY DEVELOPERS HQ PLS DONT FORGET TO ⭐ IT 
+
+DISCORD  - [JOIN NOW](https://discord.gg/gkHS46TJjn)
+
+YOUTUBE TUTORIAL SOON 
