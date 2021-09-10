@@ -1,0 +1,13 @@
+{    
+    "prefix": ";",        
+    "owners": ["820928134886326272"],
+    "botid": "876098640169558078",
+    "error_logs": "878663327763546163",
+    "success_logs": "878663327763546163",
+    "timeout": 300000,
+    "errorembedemoji": "🚫",
+    "correctembedemoji": "✅",
+    "pinembedemoji": "<a:hyperpin:882124080277520405>",
+    "menuembedemoji": "<a:blinkinghearts:882124433328861184>",
+    "disable_fetching": true
+}
